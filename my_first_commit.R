@@ -1,2 +1,2 @@
 library(tidyverse)
-qplot(mpg$cyl)
+qplot(mpg$cty)
